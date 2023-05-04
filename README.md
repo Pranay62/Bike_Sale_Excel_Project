@@ -17,5 +17,6 @@ The dataset includes 4 variables related to the customer's demographics (Marital
 1 variable related to whether or not they purchased a bike. 
 
 **Usage**
+
 Feel free to use this report as a template for your own data analysis projects. You can modify the data and formulas in the spreadsheet to suit your own needs and add additional sheets as necessary.
 
