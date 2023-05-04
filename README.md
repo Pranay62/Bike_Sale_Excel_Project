@@ -15,8 +15,6 @@ The dataset includes 4 variables related to the customer's demographics (Marital
 2 variables related to their commute (Commute Distance, Region), 
 1 variable related to their age, and 
 1 variable related to whether or not they purchased a bike. 
-The dataset includes information on 4 customers and is stored in a tabular format with each row representing an 
-individual customer and each column representing a variable.
 
 **Usage**
 Feel free to use this report as a template for your own data analysis projects. You can modify the data and formulas in the spreadsheet to suit your own needs and add additional sheets as necessary.
